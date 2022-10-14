@@ -1,0 +1,15 @@
+#navbar {
+   flex-direction: column;
+   padding-top: 0.20rem;
+   padding-bottom: 0.25rem;
+   overflow: hidden;
+   height: 80px;
+}
+
+#cv .items{
+   flex-direction: column;
+}
+
+#cv .items .item{
+   width: 100%;
+}
